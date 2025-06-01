@@ -1,0 +1,3 @@
+/home/drxco/Escritorio/logi-engine/CMakeFiles/Editor3D.dir
+/home/drxco/Escritorio/logi-engine/CMakeFiles/edit_cache.dir
+/home/drxco/Escritorio/logi-engine/CMakeFiles/rebuild_cache.dir
