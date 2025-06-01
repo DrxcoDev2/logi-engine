@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Editor3D.dir/link.d CMakeFiles/Editor3D.dir/src/main.cpp.o -o Editor3D  -lglfw -lGLEW -lEGL -lGL -lGLU -lOpenGL -lGL -lGLU -lOpenGL
